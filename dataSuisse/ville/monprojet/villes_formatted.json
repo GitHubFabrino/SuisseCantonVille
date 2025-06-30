@@ -1,0 +1,11410 @@
+[
+  {
+    "nom_ville": "Aeugst am Albis",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Affoltern am Albis",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Bonstetten",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Hausen am Albis",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Hedingen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Kappel am Albis",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Knonau",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Maschwanden",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Mettmenstetten",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Obfelden",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Ottenbach",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Rifferswil",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Stallikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Wettswil am Albis",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Adlikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Benken (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Berg am Irchel",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Buch am Irchel",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Dachsen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Dorf",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Feuerthalen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Flaach",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Flurlingen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Andelfingen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Henggart",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Humlikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Kleinandelfingen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Laufen-Uhwiesen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Marthalen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Oberstammheim",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Ossingen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Rheinau",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Thalheim an der Thur",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Trüllikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Truttikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Unterstammheim",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Volken",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Waltalingen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Bachenbülach",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Bassersdorf",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Bülach",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Dietlikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Eglisau",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Embrach",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Freienstein-Teufen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Glattfelden",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Hochfelden",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Höri",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Hüntwangen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Kloten",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Lufingen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Nürensdorf",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Oberembrach",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Opfikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Rafz",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Rorbas",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Wallisellen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Wasterkingen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Wil (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Winkel",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Bachs",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Boppelsen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Buchs (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Dällikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Dänikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Dielsdorf",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Hüttikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Neerach",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Niederglatt",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Niederhasli",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Niederweningen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Oberglatt",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Oberweningen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Otelfingen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Regensberg",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Regensdorf",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Rümlang",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Schleinikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Schöfflisdorf",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Stadel",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Steinmaur",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Weiach",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Bäretswil",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Bubikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Dürnten",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Fischenthal",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Gossau (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Grüningen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Hinwil",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Rüti (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Seegräben",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Wald (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Wetzikon (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Adliswil",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Hirzel",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Horgen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Hütten",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Kilchberg (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Langnau am Albis",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Oberrieden",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Richterswil",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Rüschlikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Schönenberg (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Thalwil",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Wädenswil",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Erlenbach (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Herrliberg",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Hombrechtikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Küsnacht (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Männedorf",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Meilen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Oetwil am See",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Stäfa",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Uetikon am See",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Zumikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Zollikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Bauma",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Fehraltorf",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Hittnau",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Illnau-Effretikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Kyburg",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Lindau",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Pfäffikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Russikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Sternenberg",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Weisslingen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Wila",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Wildberg",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Dübendorf",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Egg",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Fällanden",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Greifensee",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Maur",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Mönchaltorf",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Schwerzenbach",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Uster",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Volketswil",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Wangen-Brüttisellen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Altikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Bertschikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Brütten",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Dägerlen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Dättlikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Dinhard",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Elgg",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Ellikon an der Thur",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Elsau",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Hagenbuch",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Hettlingen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Hofstetten (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Neftenbach",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Pfungen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Rickenbach (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Schlatt (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Seuzach",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Turbenthal",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Wiesendangen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Winterthur",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Zell (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Aesch (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Birmensdorf (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Dietikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Geroldswil",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Oberengstringen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Oetwil an der Limmat",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Schlieren",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Uitikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Unterengstringen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Urdorf",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Weiningen (ZH)",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Zürich",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Stammheim",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Wädenswil",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Elgg",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Horgen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Illnau-Effretikon",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Wiesendangen",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Bauma",
+    "code": "ZH"
+  },
+  {
+    "nom_ville": "Aarberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Bargen (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Grossaffoltern",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Kallnach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Kappelen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Lyss",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Meikirch",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Niederried bei Kallnach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Radelfingen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Rapperswil (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Schüpfen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Seedorf (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Aarwangen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Auswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Bannwil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Bleienbach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Busswil bei Melchnau",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Gondiswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Gutenburg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Kleindietwil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Langenthal",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Leimiswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Lotzwil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Madiswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Melchnau",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Obersteckholz",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Oeschenbach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Reisiswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Roggwil (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Rohrbach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Rohrbachgraben",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Rütschelen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Schwarzhäusern",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Thunstetten",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Untersteckholz",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Ursenbach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wynau",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Bern",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Bolligen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Bremgarten bei Bern",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Kirchlindach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Köniz",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Muri bei Bern",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Oberbalm",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Stettlen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Vechigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wohlen bei Bern",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Zollikofen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Ittigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Ostermundigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Biel/Bienne",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Evilard",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Arch",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Büetigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Büren an der Aare",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Busswil bei Büren",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Diessbach bei Büren",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Dotzigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Lengnau (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Leuzigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Meienried",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Meinisberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Oberwil bei Büren",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Pieterlen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Rüti bei Büren",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wengi",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Aefligen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Alchenstorf",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Bäriswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Burgdorf",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Ersigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Hasle bei Burgdorf",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Heimiswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Hellsau",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Hindelbank",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Höchstetten",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Kernenried",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Kirchberg (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Koppigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Krauchthal",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Lyssach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Mötschwil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Niederösch",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Oberburg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Oberösch",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Rüdtligen-Alchenflüh",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Rumendingen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Rüti bei Lyssach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Willadingen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wynigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Corgémont",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Cormoret",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Cortébert",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Courtelary",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "La Ferrière",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "La Heutte",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Mont-Tramelan",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Orvin",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Péry",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Plagne",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Renan (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Romont (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Saint-Imier",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Sonceboz-Sombeval",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Sonvilier",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Tramelan",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Vauffelin",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Villeret",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Sauge",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Péry-La Heutte",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Brüttelen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Erlach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Finsterhennen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Gals",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Gampelen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Ins",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Lüscherz",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Müntschemier",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Siselen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Treiten",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Tschugg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Vinelz",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Ballmoos",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Bangerten",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Bätterkinden",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Büren zum Hof",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Deisswil bei Münchenbuchsee",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Diemerswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Etzelkofen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Fraubrunnen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Grafenried",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Jegenstorf",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Iffwil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Limpach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Mattstetten",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Moosseedorf",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Mülchi",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Münchenbuchsee",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Münchringen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Ruppoldsried",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Schalunen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Scheunen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Urtenen-Schönbühl",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Utzenstorf",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wiggiswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wiler bei Utzenstorf",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Zauggenried",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Zielebach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Zuzwil (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Adelboden",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Aeschi bei Spiez",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Frutigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Kandergrund",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Kandersteg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Krattigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Reichenbach im Kandertal",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Beatenberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Bönigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Brienz (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Brienzwiler",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Därligen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Grindelwald",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Gsteigwiler",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Gündlischwand",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Habkern",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Hofstetten bei Brienz",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Interlaken",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Iseltwald",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Lauterbrunnen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Leissigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Lütschental",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Matten bei Interlaken",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Niederried bei Interlaken",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Oberried am Brienzersee",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Ringgenberg (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Saxeten",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Schwanden bei Brienz",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Unterseen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wilderswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Aeschlen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Arni (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Biglen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Bleiken bei Oberdiessbach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Bowil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Brenzikofen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Freimettigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Grosshöchstetten",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Häutligen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Herbligen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Kiesen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Konolfingen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Landiswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Linden",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Mirchel",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Münsingen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Niederhünigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Oberdiessbach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Oberthal",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Oppligen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Rubigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Schlosswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Tägertschi",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Walkringen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Worb",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Zäziwil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Oberhünigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Allmendingen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Trimstein",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wichtrach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Clavaleyres",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Ferenbalm",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Frauenkappelen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Golaten",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Gurbrü",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Kriechenwil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Laupen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Mühleberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Münchenwiler",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Neuenegg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wileroltigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Belprahon",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Bévilard",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Champoz",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Châtelat",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Corcelles (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Court",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Crémines",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Eschert",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Grandval",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Loveresse",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Malleray",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Monible",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Moutier",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Perrefitte",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Pontenet",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Reconvilier",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Roches (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Saicourt",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Saules (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Schelten",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Seehof",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Sornetan",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Sorvilier",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Souboz",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Tavannes",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Rebévelier",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Petit-Val",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Valbirse",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Diesse",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Lamboing",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "La Neuveville",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Nods",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Prêles",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Plateau de Diesse",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Aegerten",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Bellmund",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Brügg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Bühl",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Epsach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Hagneck",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Hermrigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Jens",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Ipsach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Ligerz",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Merzligen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Mörigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Nidau",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Orpund",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Port",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Safnern",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Scheuren",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Schwadernau",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Studen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Sutz-Lattrigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Täuffelen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Tüscherz-Alfermée",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Twann",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Walperswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Worben",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Twann-TüscherzT",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Twann-Tüscherz",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Därstetten",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Diemtigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Erlenbach im Simmental",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Niederstocken",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Oberstocken",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Oberwil im Simmental",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Reutigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Spiez",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wimmis",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Stocken-Höfen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Gadmen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Guttannen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Hasliberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Innertkirchen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Meiringen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Schattenhalb",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Boltigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Lenk",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "St.Stephan",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Zweisimmen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Gsteig",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Lauenen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Saanen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Albligen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Guggisberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Rüschegg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wahlern",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Schwarzenburg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Belp",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Belpberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Burgistein",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Gelterfingen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Gerzensee",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Gurzelen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Jaberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Kaufdorf",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Kehrsatz",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Kienersrüti",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Kirchdorf (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Kirchenthurnen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Lohnstorf",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Mühledorf (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Mühlethurnen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Niedermuhlern",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Noflen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Riggisberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Rüeggisberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Rümligen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Rüti bei Riggisberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Seftigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Toffen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Uttigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wattenwil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wald (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Thurnen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Eggiwil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Langnau im Emmental",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Lauperswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Röthenbach im Emmental",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Rüderswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Schangnau",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Signau",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Trub",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Trubschachen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Amsoldingen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Blumenstein",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Buchholterberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Eriz",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Fahrni",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Forst",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Heiligenschwendi",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Heimberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Hilterfingen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Höfen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Homberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Horrenbach-Buchen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Längenbühl",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Oberhofen am Thunersee",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Oberlangenegg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Pohlern",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Schwendibach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Sigriswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Steffisburg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Teuffenthal (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Thierachern",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Thun",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Uebeschi",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Uetendorf",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Unterlangenegg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wachseldorn",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Zwieselberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Forst-Längenbühl",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Affoltern im Emmental",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Dürrenroth",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Eriswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Huttwil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Lützelflüh",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Rüegsau",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Sumiswald",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Trachselwald",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Walterswil (BE)",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wyssachen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Attiswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Berken",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Bettenhausen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Bollodingen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Farnern",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Graben",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Heimenhausen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Hermiswil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Herzogenbuchsee",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Inkwil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Niederbipp",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Niederönz",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Oberbipp",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Oberönz",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Ochlenberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Röthenbach bei Herzogenbuchsee",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Rumisberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Seeberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Thörigen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Walliswil bei Niederbipp",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Walliswil bei Wangen",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wangen an der Aare",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wangenried",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wanzwil",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wiedlisbach",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Wolfisberg",
+    "code": "BE"
+  },
+  {
+    "nom_ville": "Doppleschwand",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Entlebuch",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Escholzmatt",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Flühli",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Hasle (LU)",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Marbach (LU)",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Romoos",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Schüpfheim",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Werthenstein",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Escholzmatt-Marbach",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Aesch (LU)",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Altwis",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Ballwil",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Emmen",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Ermensee",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Eschenbach (LU)",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Gelfingen",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Hämikon",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Hitzkirch",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Hochdorf",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Hohenrain",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Inwil",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Lieli",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Mosen",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Müswangen",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Rain",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Retschwil",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Römerswil",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Rothenburg",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Schongau",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Sulz (LU)",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Adligenswil",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Buchrain",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Dierikon",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Ebikon",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Gisikon",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Greppen",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Honau",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Horw",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Kriens",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Littau",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Luzern",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Malters",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Meggen",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Meierskappel",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Root",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Schwarzenberg",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Udligenswil",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Vitznau",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Weggis",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Beromünster",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Büron",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Buttisholz",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Eich",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Geuensee",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Grosswangen",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Gunzwil",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Hildisrieden",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Knutwil",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Mauensee",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Neudorf",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Neuenkirch",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Nottwil",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Oberkirch",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Pfeffikon",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Rickenbach (LU)",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Ruswil",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Schenkon",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Schlierbach",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Sempach",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Sursee",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Triengen",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Winikon",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Wolhusen",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Alberswil",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Altbüron",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Altishofen",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Dagmersellen",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Ebersecken",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Egolzwil",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Ettiswil",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Fischbach",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Gettnau",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Grossdietwil",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Hergiswil bei Willisau",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Luthern",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Menznau",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Nebikon",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Ohmstal",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Pfaffnau",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Reiden",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Roggliswil",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Schötz",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Ufhusen",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Wauwil",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Wikon",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Zell (LU)",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Willisau",
+    "code": "LU"
+  },
+  {
+    "nom_ville": "Altdorf UR",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Andermatt",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Attinghausen",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Bauen",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Bürglen (UR)",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Erstfeld",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Flüelen",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Göschenen",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Gurtnellen",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Hospental",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Isenthal",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Realp",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Schattdorf",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Seedorf (UR)",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Seelisberg",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Silenen",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Sisikon",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Spiringen",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Unterschächen",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Wassen",
+    "code": "UR"
+  },
+  {
+    "nom_ville": "Einsiedeln",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Gersau",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Feusisberg",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Freienbach",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Wollerau",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Küssnacht (SZ)",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Altendorf",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Galgenen",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Innerthal",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Lachen",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Reichenburg",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Schübelbach",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Tuggen",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Vorderthal",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Wangen (SZ)",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Alpthal",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Arth",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Illgau",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Ingenbohl",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Lauerz",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Morschach",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Muotathal",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Oberiberg",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Riemenstalden",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Rothenthurm",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Sattel",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Schwyz",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Steinen",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Steinerberg",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Unteriberg",
+    "code": "SZ"
+  },
+  {
+    "nom_ville": "Alpnach",
+    "code": "OW"
+  },
+  {
+    "nom_ville": "Engelberg",
+    "code": "OW"
+  },
+  {
+    "nom_ville": "Giswil",
+    "code": "OW"
+  },
+  {
+    "nom_ville": "Kerns",
+    "code": "OW"
+  },
+  {
+    "nom_ville": "Lungern",
+    "code": "OW"
+  },
+  {
+    "nom_ville": "Sachseln",
+    "code": "OW"
+  },
+  {
+    "nom_ville": "Sarnen",
+    "code": "OW"
+  },
+  {
+    "nom_ville": "Beckenried",
+    "code": "NW"
+  },
+  {
+    "nom_ville": "Buochs",
+    "code": "NW"
+  },
+  {
+    "nom_ville": "Dallenwil",
+    "code": "NW"
+  },
+  {
+    "nom_ville": "Emmetten",
+    "code": "NW"
+  },
+  {
+    "nom_ville": "Ennetbürgen",
+    "code": "NW"
+  },
+  {
+    "nom_ville": "Ennetmoos",
+    "code": "NW"
+  },
+  {
+    "nom_ville": "Hergiswil (NW)",
+    "code": "NW"
+  },
+  {
+    "nom_ville": "Oberdorf (NW)",
+    "code": "NW"
+  },
+  {
+    "nom_ville": "Stans",
+    "code": "NW"
+  },
+  {
+    "nom_ville": "Stansstad",
+    "code": "NW"
+  },
+  {
+    "nom_ville": "Wolfenschiessen",
+    "code": "NW"
+  },
+  {
+    "nom_ville": "Betschwanden",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Bilten",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Braunwald",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Elm",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Engi",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Ennenda",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Filzbach",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Glarus",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Haslen",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Leuggelbach",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Linthal",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Luchsingen",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Matt",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Mitlödi",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Mollis",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Mühlehorn",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Näfels",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Netstal",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Nidfurn",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Niederurnen",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Oberurnen",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Obstalden",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Riedern",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Rüti (GL)",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Schwanden (GL)",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Schwändi",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Sool",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Glarus Nord",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Glarus Süd",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Glarus",
+    "code": "GL"
+  },
+  {
+    "nom_ville": "Baar",
+    "code": "ZG"
+  },
+  {
+    "nom_ville": "Cham",
+    "code": "ZG"
+  },
+  {
+    "nom_ville": "Hünenberg",
+    "code": "ZG"
+  },
+  {
+    "nom_ville": "Menzingen",
+    "code": "ZG"
+  },
+  {
+    "nom_ville": "Neuheim",
+    "code": "ZG"
+  },
+  {
+    "nom_ville": "Oberägeri",
+    "code": "ZG"
+  },
+  {
+    "nom_ville": "Risch",
+    "code": "ZG"
+  },
+  {
+    "nom_ville": "Steinhausen",
+    "code": "ZG"
+  },
+  {
+    "nom_ville": "Unterägeri",
+    "code": "ZG"
+  },
+  {
+    "nom_ville": "Walchwil",
+    "code": "ZG"
+  },
+  {
+    "nom_ville": "Zug",
+    "code": "ZG"
+  },
+  {
+    "nom_ville": "Bussy (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Châbles",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Châtillon (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Cheiry",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Cheyres",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Cugy (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Domdidier",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Dompierre (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Estavayer-le-Lac",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Fétigny",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Font",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Gletterens",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Léchelles",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Lully (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Ménières",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Montagny (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Morens (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Murist",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Nuvilly",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Prévondavaux",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Rueyres-les-Prés",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Russy",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Saint-Aubin (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Sévaz",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Surpierre",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Vallon",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Villeneuve (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Vuissens",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Les Montets",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Delley-Portalban",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Vernay",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Belmont-Broye",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Estavayer",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Cheyres-Châbles",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Auboranges",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Billens-Hennens",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Chapelle (Glâne)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Le Châtelard",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Châtonnaye",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Ecublens (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Grangettes",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Massonnens",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Mézières (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Montet (Glâne)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Romont (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Rue",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Siviriez",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Ursy",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Villaz-Saint-Pierre",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Vuarmarens",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Vuisternens-devant-Romont",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Villorsonnens",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Torny",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "La Folliaz",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Villaz",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Haut-Intyamon",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Pont-en-Ogoz",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Botterens",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Broc",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Bulle",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Cerniat (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Charmey",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Châtel-sur-Montsalvens",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Corbières",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Crésuz",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Echarlens",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Grandvillard",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Gruyères",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Hauteville",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Jaun",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Marsens",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Morlon",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Le Pâquier (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Pont-la-Ville",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Riaz",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "La Roche",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Sâles",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Sorens",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Vaulruz",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Villarvolard",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Vuadens",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Bas-Intyamon",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Val-de-Charmey",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Arconciel",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Autafond",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Autigny",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Avry",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Belfaux",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Chénens",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Chésopelloz",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Corminboeuf",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Corpataux-Magnedens",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Corserey",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Cottens (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Ependes (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Farvagny",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Ferpicloz",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Fribourg",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Givisiez",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Granges-Paccot",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Grolley",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Marly",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Matran",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Neyruz (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Noréaz",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Pierrafortscha",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Ponthaux",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Le Mouret",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Prez-vers-Noréaz",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Rossens (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Le Glèbe",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Senèdes",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Treyvaux",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Villars-sur-Glâne",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Villarsel-sur-Marly",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Vuisternens-en-Ogoz",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Hauterive (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "La Brillaz",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "La Sonnaz",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Gibloux",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Prez",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Bois-d'Amont",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Barberêche",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Büchslen",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Courgevaux",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Courlevon",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Courtepin",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Cressier (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Fräschels",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Galmiz",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Gempenach",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Greng",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Gurmels",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Jeuss",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Kerzers",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Kleinbösingen",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Lurtigen",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Meyriez",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Misery-Courtion",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Muntelier",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Morat",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Ried bei Kerzers",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Salvenach",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Ulmiz",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Villarepos",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Bas-Vully",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Haut-Vully",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Wallenried",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Mont-Vully",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Alterswil",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Brünisried",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Düdingen",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Giffers",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Bösingen",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Heitenried",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Oberschrot",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Plaffeien",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Plasselb",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Rechthalten",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "St.Antoni",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "St.Silvester",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "St.Ursen",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Schmitten (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Tafers",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Tentlingen",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Ueberstorf",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Wünnewil-Flamatt",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Zumholz",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Attalens",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Bossonnens",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Châtel-Saint-Denis",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Granges (Veveyse)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Remaufens",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Saint-Martin (FR)",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Semsales",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Le Flon",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "La Verrerie",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Egerkingen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Härkingen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Kestenholz",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Neuendorf",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Niederbuchsiten",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Oberbuchsiten",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Oensingen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Wolfwil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Aedermannsdorf",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Balsthal",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Gänsbrunnen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Herbetswil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Holderbank (SO)",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Laupersdorf",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Matzendorf",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Mümliswil-Ramiswil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Welschenrohr",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Welschenrohr-Gänsbrunnen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Aetigkofen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Aetingen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Balm bei Messen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Bibern (SO)",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Biezwil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Brügglen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Brunnenthal",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Gossliwil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Hessigkofen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Küttigkofen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Kyburg-Buchegg",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Lüsslingen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Lüterkofen-Ichertswil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Lüterswil-Gächliwil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Messen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Mühledorf (SO)",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Nennigkofen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Oberramsern",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Schnottwil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Tscheppach",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Unterramsern",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Lüsslingen-Nennigkofen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Buchegg",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Bättwil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Büren (SO)",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Dornach",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Gempen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Hochwald",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Hofstetten-Flüh",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Metzerlen-Mariastein",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Nuglar-St.Pantaleon",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Rodersdorf",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Seewen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Witterswil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Hauenstein-Ifenthal",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Kienberg",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Lostorf",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Niedergösgen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Obergösgen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Rohr (SO)",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Stüsslingen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Trimbach",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Winznau",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Wisen (SO)",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Erlinsbach (SO)",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Aeschi (SO)",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Biberist",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Bolken",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Deitingen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Derendingen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Etziken",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Gerlafingen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Halten",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Heinrichswil-Winistorf",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Hersiwil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Horriwil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Hüniken",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Kriegstetten",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Lohn-Ammannsegg",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Luterbach",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Obergerlafingen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Oekingen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Recherswil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Steinhof",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Subingen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Zuchwil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Drei Höfe",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Balm bei Günsberg",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Bellach",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Bettlach",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Feldbrunnen-St.Niklaus",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Flumenthal",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Grenchen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Günsberg",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Hubersdorf",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Kammersrohr",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Langendorf",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Lommiswil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Niederwil (SO)",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Oberdorf (SO)",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Riedholz",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Rüttenen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Selzach",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Boningen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Däniken",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Dulliken",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Eppenberg-Wöschnau",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Fulenbach",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Gretzenbach",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Gunzgen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Hägendorf",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Kappel (SO)",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Olten",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Rickenbach (SO)",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Schönenwerd",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Starrkirch-Wil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Walterswil (SO)",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Wangen bei Olten",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Solothurn",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Bärschwil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Beinwil (SO)",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Breitenbach",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Büsserach",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Erschwil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Fehren",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Grindel",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Himmelried",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Kleinlützel",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Meltingen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Nunningen",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Zullwil",
+    "code": "SO"
+  },
+  {
+    "nom_ville": "Basel",
+    "code": "BS"
+  },
+  {
+    "nom_ville": "Bettingen",
+    "code": "BS"
+  },
+  {
+    "nom_ville": "Riehen",
+    "code": "BS"
+  },
+  {
+    "nom_ville": "Aesch BL",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Allschwil",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Arlesheim",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Biel-Benken",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Binningen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Birsfelden",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Bottmingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Ettingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Münchenstein",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Muttenz",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Oberwil (BL)",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Pfeffingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Reinach (BL)",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Schönenbuch",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Therwil",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Blauen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Brislach",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Burg im Leimental",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Dittingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Duggingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Grellingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Laufen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Liesberg",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Nenzlingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Roggenburg",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Röschenz",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Wahlen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Zwingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Arisdorf",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Augst",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Bubendorf",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Frenkendorf",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Füllinsdorf",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Giebenach",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Hersberg",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Lausen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Liestal",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Lupsingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Pratteln",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Ramlinsburg",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Seltisberg",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Ziefen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Anwil",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Böckten",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Buckten",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Buus",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Diepflingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Gelterkinden",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Häfelfingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Hemmiken",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Itingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Känerkinden",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Kilchberg (BL)",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Läufelfingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Maisprach",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Nusshof",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Oltingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Ormalingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Rickenbach (BL)",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Rothenfluh",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Rümlingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Rünenberg",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Sissach",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Tecknau",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Tenniken",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Thürnen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Wenslingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Wintersingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Wittinsburg",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Zeglingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Zunzgen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Arboldswil",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Bennwil",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Bretzwil",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Diegten",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Eptingen",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Hölstein",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Lampenberg",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Langenbruck",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Lauwil",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Liedertswil",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Niederdorf",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Oberdorf (BL)",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Reigoldswil",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Titterten",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Waldenburg",
+    "code": "BL"
+  },
+  {
+    "nom_ville": "Gächlingen",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Guntmadingen",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Löhningen",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Neunkirch",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Altdorf (SH)",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Bibern (SH)",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Büttenhardt",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Dörflingen",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Lohn (SH)",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Opfertshofen (SH)",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Stetten (SH)",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Thayngen",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Bargen (SH)",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Beringen",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Buchberg",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Hemmental",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Merishausen",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Neuhausen am Rheinfall",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Rüdlingen",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Schaffhausen",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Beggingen",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Schleitheim",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Siblingen",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Buch (SH)",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Hemishofen",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Ramsen",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Stein am Rhein",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Hallau",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Oberhallau",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Trasadingen",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Wilchingen",
+    "code": "SH"
+  },
+  {
+    "nom_ville": "Herisau",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Hundwil",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Schönengrund",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Schwellbrunn",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Stein (AR)",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Urnäsch",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Waldstatt",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Bühler",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Gais",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Speicher",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Teufen (AR)",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Trogen",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Grub (AR)",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Heiden",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Lutzenberg",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Rehetobel",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Reute (AR)",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Wald (AR)",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Walzenhausen",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Wolfhalden",
+    "code": "AR"
+  },
+  {
+    "nom_ville": "Appenzell",
+    "code": "AI"
+  },
+  {
+    "nom_ville": "Gonten",
+    "code": "AI"
+  },
+  {
+    "nom_ville": "Rüte",
+    "code": "AI"
+  },
+  {
+    "nom_ville": "Schlatt-Haslen",
+    "code": "AI"
+  },
+  {
+    "nom_ville": "Schwende",
+    "code": "AI"
+  },
+  {
+    "nom_ville": "Oberegg",
+    "code": "AI"
+  },
+  {
+    "nom_ville": "Schwende-Rüte",
+    "code": "AI"
+  },
+  {
+    "nom_ville": "Häggenschwil",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Muolen",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "St.Gallen",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Wittenbach",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Berg (SG)",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Eggersriet",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Goldach",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Mörschwil",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Rorschach",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Rorschacherberg",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Steinach",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Tübach",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Untereggen",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Au (SG)",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Balgach",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Berneck",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Diepoldsau",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Rheineck",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "St.Margrethen",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Thal",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Widnau",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Altstätten",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Eichberg",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Marbach (SG)",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Oberriet (SG)",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Rebstein",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Rüthi (SG)",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Buchs (SG)",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Gams",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Grabs",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Sennwald",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Sevelen",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Wartau",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Bad Ragaz",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Flums",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Mels",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Pfäfers",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Quarten",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Sargans",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Vilters-Wangs",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Walenstadt",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Amden",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Benken (SG)",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Kaltbrunn",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Rieden",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Schänis",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Weesen",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Ernetschwil",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Eschenbach (SG)",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Goldingen",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Gommiswald",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Rapperswil (SG)",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "St.Gallenkappel",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Schmerikon",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Uznach",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Rapperswil-Jona",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Gommiswald",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Eschenbach (SG)",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Alt St.Johann",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Ebnat-Kappel",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Stein (SG)",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Wildhaus",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Nesslau-Krummenau",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Wildhaus-Alt St. Johann",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Nesslau",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Brunnadern",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Hemberg",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Krinau",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Lichtensteig",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Oberhelfenschwil",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "St.Peterzell",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Wattwil",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Neckertal",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Wattwil",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Bütschwil",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Kirchberg (SG)",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Lütisburg",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Mosnang",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Bütschwil-Ganterschwil",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Degersheim",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Flawil",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Ganterschwil",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Jonschwil",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Mogelsberg",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Oberuzwil",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Uzwil",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Bronschhofen",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Niederbüren",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Niederhelfenschwil",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Oberbüren",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Wil (SG)",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Zuzwil (SG)",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Wil (SG)",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Andwil (SG)",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Gaiserwald",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Gossau (SG)",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Waldkirch",
+    "code": "SG"
+  },
+  {
+    "nom_ville": "Alvaschein",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Mon",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Mutten",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Stierva",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Tiefencastel",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Vaz/Obervaz",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Alvaneu",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Brienz/Brinzauls",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Lantsch/Lenz",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Schmitten (GR)",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Surava",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Bergün/Bravuogn",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Filisur",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Wiesen (GR)",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Bivio",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Cunter",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Marmorera",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Mulegns",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Riom-Parsonz",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Salouf",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Savognin",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Sur",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Tinizong-Rona",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Albula/Alvra",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Surses",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Bergün Filisur",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Brusio",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Poschiavo",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Castrisch",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Falera",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Flond",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Ilanz",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Laax",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Ladir",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Luven",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Pitasch",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Riein",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Ruschein",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Sagogn",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Schluein",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Schnaus",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Sevgein",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Valendas",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Versam",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Cumbel",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Duvin",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Degen",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Lumbrein",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Morissen",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "St. Martin",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Suraua",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Surcuolm",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Vals",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Vignogn",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Vella",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Vrin",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Andiast",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Obersaxen",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Pigniu",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Rueun",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Siat",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Waltensburg/Vuorz",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Mundaun",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Lumnezia",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Ilanz/Glion",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Almens",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Feldis/Veulden",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Fürstenau",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Paspels",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Pratval",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Rodels",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Rothenbrunnen",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Scharans",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Scheid",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Sils im Domleschg",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Trans",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Tumegl/Tomils",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Safien",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Tenna",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Cazis",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Flerden",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Masein",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Portein",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Präz",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Sarn",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Tartar",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Thusis",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Tschappina",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Urmein",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Tomils",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Safiental",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Domleschg",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Avers",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Hinterrhein",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Nufenen",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Splügen",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Sufers",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Andeer",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Ausserferrera",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Casti-Wergenstein",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Clugin",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Donat",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Innerferrera",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Lohn (GR)",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Mathon",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Pignia",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Rongellen",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Zillis-Reischen",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Ferrera",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Rheinwald",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Muntogna da Schons",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Bonaduz",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Domat/Ems",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Rhäzüns",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Felsberg",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Flims",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Tamins",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Trin",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Ardez",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Guarda",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Lavin",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Susch",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Tarasp",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Zernez",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Ramosch",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Samnaun",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Tschlin",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Ftan",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Scuol",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Sent",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Valsot",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Bondo",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Castasegna",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Soglio",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Stampa",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Vicosoprano",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Bever",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Celerina/Schlarigna",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Madulain",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Pontresina",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "La Punt-Chamues-ch",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Samedan",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "St. Moritz",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "S-chanf",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Sils im Engadin/Segl",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Silvaplana",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Zuoz",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Bregaglia",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Arvigo",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Braggio",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Buseno",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Castaneda",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Cauco",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Rossa",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Santa Maria in Calanca",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Selma",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Lostallo",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Mesocco",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Soazza",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Cama",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Grono",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Leggia",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Roveredo (GR)",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "San Vittore",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Verdabbio",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Calanca",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Fuldera",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Lü",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Müstair",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Santa Maria Val Müstair",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Tschierv",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Valchava",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Val Müstair",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Davos",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Fideris",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Furna",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Jenaz",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Klosters-Serneus",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Conters im Prättigau",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Küblis",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Saas",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Luzein",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "St. Antönien Ascharina",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "St. Antönien",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Chur",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Churwalden",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Malix",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Parpan",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Praden",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Tschiertschen",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Arosa",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Calfreisen",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Castiel",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Langwies",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Lüen",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Maladers",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Molinis",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Pagig",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Peist",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "St. Peter",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "St.Peter-Pagig",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Tschiertschen-Praden",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Haldenstein",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Igis",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Mastrils",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Says",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Trimmis",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Untervaz",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Zizers",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Fläsch",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Jenins",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Maienfeld",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Malans",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Landquart",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Grüsch",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Schiers",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Fanas",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Seewis im Prättigau",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Valzeina",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Breil/Brigels",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Disentis/Mustér",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Medel (Lucmagn)",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Schlans",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Sumvitg",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Tujetsch",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Trun",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Obersaxen Mundaun",
+    "code": "GR"
+  },
+  {
+    "nom_ville": "Aarau",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Biberstein",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Buchs (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Densbüren",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Erlinsbach (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Gränichen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Hirschthal",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Küttigen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Muhen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Oberentfelden",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Rohr (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Suhr",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Unterentfelden",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Baden",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Bellikon",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Bergdietikon",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Birmenstorf (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Ennetbaden",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Fislisbach",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Freienwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Gebenstorf",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Killwangen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Künten",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Mägenwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Mellingen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Neuenhof",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Niederrohrdorf",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Oberrohrdorf",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Obersiggenthal",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Remetschwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Spreitenbach",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Stetten (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Turgi",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Untersiggenthal",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Wettingen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Wohlenschwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Würenlingen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Würenlos",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Ehrendingen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Arni (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Berikon",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Bremgarten (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Büttikon",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Dottikon",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Eggenwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Fischbach-Göslikon",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Hägglingen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Hermetschwil-Staffeln",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Hilfikon",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Jonen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Niederwil (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Oberlunkhofen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Oberwil-Lieli",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Rudolfstetten-Friedlisberg",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Sarmenstorf",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Tägerig",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Uezwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Unterlunkhofen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Villmergen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Widen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Wohlen (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Zufikon",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Islisberg",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Auenstein",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Birr",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Birrhard",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Bözen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Brugg",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Effingen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Elfingen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Gallenkirch",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Habsburg",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Hausen (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Hottwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Linn",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Lupfig",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Mandach",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Mönthal",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Mülligen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Oberbözberg",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Oberflachs",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Remigen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Riniken",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Rüfenach",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Scherz",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Schinznach-Bad",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Schinznach-Dorf",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Thalheim (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Umiken",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Unterbözberg",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Veltheim (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Villigen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Villnachern",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Windisch",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Bözberg",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Schinznach",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Beinwil am See",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Birrwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Burg (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Dürrenäsch",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Gontenschwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Holziken",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Leimbach (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Leutwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Menziken",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Oberkulm",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Reinach (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Schlossrued",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Schmiedrued",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Schöftland",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Teufenthal (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Unterkulm",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Zetzwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Eiken",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Etzgen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Frick",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Gansingen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Gipf-Oberfrick",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Herznach",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Hornussen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Ittenthal",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Kaisten",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Laufenburg",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Mettau",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Münchwilen (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Oberhof",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Oberhofen (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Oeschgen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Schwaderloch",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Sisseln",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Sulz (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Ueken",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Wil (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Wittnau",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Wölflinswil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Zeihen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Mettauertal",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Böztal",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Ammerswil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Boniswil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Brunegg",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Dintikon",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Egliswil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Fahrwangen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Hallwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Hendschiken",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Holderbank (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Hunzenschwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Lenzburg",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Meisterschwanden",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Möriken-Wildegg",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Niederlenz",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Othmarsingen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Rupperswil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Schafisheim",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Seengen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Seon",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Staufen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Abtwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Aristau",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Auw",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Beinwil (Freiamt)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Benzenschwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Besenbüren",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Bettwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Boswil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Bünzen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Buttwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Dietwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Geltwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Kallern",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Merenschwand",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Mühlau",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Muri (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Oberrüti",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Rottenschwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Sins",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Waltenschwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Hellikon",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Kaiseraugst",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Magden",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Möhlin",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Mumpf",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Obermumpf",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Olsberg",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Rheinfelden",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Schupfart",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Stein (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Wallbach",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Wegenstetten",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Zeiningen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Zuzgen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Aarburg",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Attelwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Bottenwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Brittnau",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Kirchleerau",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Kölliken",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Moosleerau",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Murgenthal",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Oftringen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Reitnau",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Rothrist",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Safenwil",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Staffelbach",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Strengelbach",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Uerkheim",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Vordemwald",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Wiliberg",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Zofingen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Baldingen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Böbikon",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Böttstein",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Döttingen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Endingen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Fisibach",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Full-Reuenthal",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Kaiserstuhl",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Klingnau",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Koblenz",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Leibstadt",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Lengnau (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Leuggern",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Mellikon",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Rekingen (AG)",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Rietheim",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Rümikon",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Schneisingen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Siglistorf",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Tegerfelden",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Unterendingen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Wislikofen",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Bad Zurzach",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Zurzach",
+    "code": "AG"
+  },
+  {
+    "nom_ville": "Arbon",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Dozwil",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Egnach",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Hefenhofen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Horn",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Kesswil",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Roggwil (TG)",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Romanshorn",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Salmsach",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Sommeri",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Uttwil",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Amriswil",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Bischofszell",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Erlen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Hauptwil-Gottshaus",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Hohentannen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Kradolf-Schönenberg",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Neukirch an der Thur",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Sulgen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Zihlschlacht-Sitterdorf",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Basadingen-Schlattingen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Diessenhofen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Schlatt (TG)",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Aadorf",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Felben-Wellhausen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Frauenfeld",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Gachnang",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Hüttlingen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Matzingen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Neunforn",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Stettfurt",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Thundorf",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Uesslingen-Buch",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Warth-Weiningen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Altnau",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Bottighofen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Ermatingen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Gottlieben",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Güttingen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Kemmental",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Illighausen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Kreuzlingen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Langrickenbach",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Lengwil",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Münsterlingen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Scherzingen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Tägerwilen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Wäldi",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Affeltrangen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Bettwiesen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Bichelsee-Balterswil",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Braunau",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Eschlikon",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Fischingen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Lommis",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Münchwilen (TG)",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Rickenbach (TG)",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Schönholzerswilen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Sirnach",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Tobel-Tägerschen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Wängi",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Wilen (TG)",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Wuppenau",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Berlingen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Eschenz",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Herdern",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Homburg",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Hüttwilen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Mammern",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Müllheim",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Pfyn",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Raperswilen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Salenstein",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Steckborn",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Wagenhausen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Amlikon-Bissegg",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Berg (TG)",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Birwinken",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Bürglen (TG)",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Bussnang",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Märstetten",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Weinfelden",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Wigoltingen",
+    "code": "TG"
+  },
+  {
+    "nom_ville": "Arbedo-Castione",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Bellinzona",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Cadenazzo",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Camorino",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Giubiasco",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Gnosca",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Gorduno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Gudo",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Isone",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Lumino",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Medeglia",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Moleno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Monte Carasso",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Pianezzo",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Preonzo",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Sant'Antonino",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Sant'Antonio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Sementina",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Aquila",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Campo (Blenio)",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Ghirone",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Ludiano",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Malvaglia",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Olivone",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Semione",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Torre",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Acquarossa",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Blenio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Serravalle",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Airolo",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Anzonico",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Bedretto",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Bodio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Calpiogna",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Campello",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Cavagnago",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Chironico",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Dalpe",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Faido",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Giornico",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Mairengo",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Osco",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Personico",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Pollegio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Prato (Leventina)",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Quinto",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Sobrio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Ascona",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Borgnone",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Brione (Verzasca)",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Brione sopra Minusio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Brissago",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Caviano",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Cavigliano",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Contone",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Corippo",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Cugnasco",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Frasco",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Gerra (Gambarogno)",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Gerra (Verzasca)",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Gordola",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Gresso",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Indemini",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Intragna",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Lavertezzo",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Locarno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Losone",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Magadino",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Mergoscia",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Minusio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Mosogno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Muralto",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Orselina",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Palagnedra",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Piazzogna",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Ronco sopra Ascona",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "San Nazzaro",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Sant'Abbondio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Sonogno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Tegna",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Tenero-Contra",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Vergeletto",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Verscio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Vira (Gambarogno)",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Vogorno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Onsernone",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Isorno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Cugnasco-Gerra",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Agno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Aranno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Arogno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Astano",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Barbengo",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Bedano",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Bedigliora",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Bidogno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Bioggio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Bironico",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Bissone",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Bogno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Brusino Arsizio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Cademario",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Cadempino",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Cadro",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Camignolo",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Canobbio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Carabbia",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Carabietta",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Carona",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Caslano",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Certara",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Cimadera",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Comano",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Corticiasca",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Croglio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Cureglia",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Curio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Grancia",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Gravesano",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Iseo",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Lamone",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Lugaggia",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Lugano",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Magliaso",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Manno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Maroggia",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Massagno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Melano",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Melide",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Mezzovico-Vira",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Miglieglia",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Monteggio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Morcote",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Muzzano",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Neggio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Novaggio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Origlio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Paradiso",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Ponte Capriasca",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Ponte Tresa",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Porza",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Pura",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Rivera",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Rovio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Savosa",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Sessa",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Sigirino",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Sonvico",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Sorengo",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Capriasca",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Torricella-Taverne",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Valcolla",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Vernate",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Vezia",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Vico Morcote",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Villa Luganese",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Collina d'Oro",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Alto Malcantone",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Monteceneri",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Tresa",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Val Mara",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Arzo",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Balerna",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Besazio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Bruzella",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Cabbio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Caneggio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Capolago",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Castel San Pietro",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Chiasso",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Coldrerio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Genestrerio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Ligornetto",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Mendrisio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Meride",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Morbio Inferiore",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Morbio Superiore",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Muggio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Novazzano",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Rancate",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Riva San Vitale",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Sagno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Stabio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Tremona",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Vacallo",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Breggia",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Biasca",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Claro",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Cresciano",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Iragna",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Lodrino",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Osogna",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Riviera",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Avegno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Bignasco",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Bosco/Gurin",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Campo (Vallemaggia)",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Cavergno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Cerentino",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Cevio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Gordevio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Linescio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Maggia",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Lavizzara",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Avegno Gordevio",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Terre di Pedemonte",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Centovalli",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Gambarogno",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Verzasca",
+    "code": "TI"
+  },
+  {
+    "nom_ville": "Aigle",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bex",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chessel",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Corbeyrier",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Gryon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Lavey-Morcles",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Leysin",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Noville",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Ollon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Ormont-Dessous",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Ormont-Dessus",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Rennaz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Roche (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Villeneuve (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Yvorne",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Apples",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Aubonne",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Ballens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Berolle",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bière",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bougy-Villars",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Féchy",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Gimel",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Longirod",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Marchissy",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Mollens (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Montherod",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Pizy",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Saint-George",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Saint-Livres",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Saint-Oyens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Saubraz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Avenches",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bellerive (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chabrey",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Constantine",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Cudrefin",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Faoug",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Montmagny",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Mur (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Oleyres",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vallamand",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Villars-le-Grand",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vully-les-Lacs",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Bettens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bournens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Boussens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "La Chaux (Cossonay)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chavannes-le-Veyron",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chevilly",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Cossonay",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Cottens (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Cuarnens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Daillens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Dizy",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Eclépens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Ferreyres",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Gollion",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Grancy",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "L'Isle",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Lussery-Villars",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Mauraz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Mex (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Moiry",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Mont-la-Ville",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Montricher",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Orny",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Pampigny",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Penthalaz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Penthaz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Pompaples",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "La Sarraz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Senarclens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Sévery",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Sullens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vufflens-la-Ville",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Assens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bercher",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bioley-Orjulaz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bottens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bretigny-sur-Morrens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Cugy (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Dommartin",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Echallens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Eclagnens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Essertines-sur-Yverdon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Etagnières",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Fey",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Froideville",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Goumoens-la-Ville",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Goumoens-le-Jux",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Malapalud",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Morrens (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Naz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Oulens-sous-Echallens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Pailly",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Penthéréaz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Poliez-le-Grand",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Poliez-Pittet",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Rueyres",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Saint-Barthélemy (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Sugnens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Villars-le-Terroir",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Villars-Tiercelin",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vuarrens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Montilliez",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Goumoëns",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Bonvillars",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bullet",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Champagne",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Concise",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Corcelles-près-Concise",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Fiez",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Fontaines-sur-Grandson",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Fontanezier",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Giez",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Grandevent",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Grandson",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Mauborget",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Mutrux",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Novalles",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Onnens (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Provence",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Romairon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Sainte-Croix",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vaugondry",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Villars-Burquin",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Tévenon",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Belmont-sur-Lausanne",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Cheseaux-sur-Lausanne",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Crissier",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Epalinges",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Jouxtens-Mézery",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Lausanne",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Le Mont-sur-Lausanne",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Paudex",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Prilly",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Pully",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Renens (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Romanel-sur-Lausanne",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chexbres",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Cully",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Epesses",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Forel (Lavaux)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Grandvaux",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Lutry",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Puidoux",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Riex",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Rivaz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Saint-Saphorin (Lavaux)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Savigny",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Villette (Lavaux)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bourg-en-Lavaux",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Aclens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bremblens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Buchillon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bussigny-près-Lausanne",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bussy-Chardonney",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chavannes-près-Renens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chigny",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Clarmont",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Colombier (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Denens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Denges",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Echandens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Echichens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Ecublens (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Etoy",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Lavigny",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Lonay",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Lully (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Lussy-sur-Morges",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Monnaz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Morges",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Préverenges",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Reverolle",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Romanel-sur-Morges",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Saint-Prex",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Saint-Saphorin-sur-Morges",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Saint-Sulpice (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Tolochenaz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vaux-sur-Morges",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Villars-Sainte-Croix",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Villars-sous-Yens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vufflens-le-Château",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vullierens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Yens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Hautemorges",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Boulens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Brenles",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bussy-sur-Moudon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chapelle-sur-Moudon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chavannes-sur-Moudon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chesalles-sur-Moudon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Correvon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Cremin",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Curtilles",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Denezy",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Dompierre (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Forel-sur-Lucens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Hermenches",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Lovatens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Lucens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Martherenges",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Montaubion-Chardonney",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Moudon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Neyruz-sur-Moudon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Ogens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Oulens-sur-Lucens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Peyres-Possens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Prévonloup",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Rossenges",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Saint-Cierges",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Sarzens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Sottens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Syens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Thierrens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Villars-le-Comte",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Villars-Mendraz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vucherens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Montanaire",
+    "code": "FR"
+  },
+  {
+    "nom_ville": "Arnex-sur-Nyon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Arzier",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bassins",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Begnins",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bogis-Bossey",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Borex",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chavannes-de-Bogis",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chavannes-des-Bois",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chéserex",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Coinsins",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Commugny",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Coppet",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Crans-près-Céligny",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Crassier",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Duillier",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Eysins",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Founex",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Genolier",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Gingins",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Givrins",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Gland",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Grens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Mies",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Nyon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Prangins",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "La Rippe",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Saint-Cergue",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Signy-Avenex",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Tannay",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Trélex",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Le Vaud",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vich",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "L'Abergement",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Agiez",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Arnex-sur-Orbe",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Ballaigues",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Baulmes",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bavois",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bofflens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bretonnières",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chavornay",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Les Clées",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Corcelles-sur-Chavornay",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Croy",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Juriens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Lignerolle",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Montcherand",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Orbe",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "La Praz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Premier",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Rances",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Romainmôtier-Envy",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Sergey",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Valeyres-sous-Rances",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vallorbe",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vaulion",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vuiteboeuf",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bussigny-sur-Oron",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Carrouge (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Châtillens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chesalles-sur-Oron",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Corcelles-le-Jorat",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Les Cullayes",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Ecoteaux",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Essertes",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Ferlens (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Maracon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Mézières (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Montpreveyres",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Oron-la-Ville",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Oron-le-Châtel",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Palézieux",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Peney-le-Jorat",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Ropraz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Servion",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Les Tavernes",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Les Thioleyres",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vuibroye",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vulliens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Jorat-Menthue",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Oron",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Jorat-Mézières",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Cerniaz (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Champtauroz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chevroux",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Combremont-le-Grand",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Combremont-le-Petit",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Corcelles-près-Payerne",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Grandcour",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Granges-près-Marnand",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Henniez",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Marnand",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Missy",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Payerne",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Sassel",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Seigneux",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Trey",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Treytorrens (Payerne)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Villars-Bramard",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Villarzel",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Valbroye",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Château-d'Oex",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Rossinière",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Rougemont",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Allaman",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bursinel",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bursins",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Burtigny",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Dully",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Essertines-sur-Rolle",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Gilly",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Luins",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Mont-sur-Rolle",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Perroy",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Rolle",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Tartegnin",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vinzel",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "L'Abbaye",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Le Chenit",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Le Lieu",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Blonay",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chardonne",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Corseaux",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Corsier-sur-Vevey",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Jongny",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Montreux",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Saint-Légier-La Chiésaz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "La Tour-de-Peilz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vevey",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Veytaux",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Blonay - Saint-Légier",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Belmont-sur-Yverdon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Bioley-Magnoux",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chamblon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Champvent",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chanéaz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chavannes-le-Chêne",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Chêne-Pâquier",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Cheseaux-Noréaz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Cronay",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Cuarny",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Démoret",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Donneloye",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Ependes (VD)",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Essert-Pittet",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Essert-sous-Champvent",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Gossens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Gressy",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Mathod",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Mézery-près-Donneloye",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Molondin",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Montagny-près-Yverdon",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Oppens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Orges",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Orzens",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Pomy",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Prahins",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Rovray",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Suchy",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Suscévaz",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Treycovagnes",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Ursins",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Valeyres-sous-Montagny",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Valeyres-sous-Ursins",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Villars-Epeney",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Villars-sous-Champvent",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Vugelles-La Mothe",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Yverdon-les-Bains",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Yvonand",
+    "code": "VD"
+  },
+  {
+    "nom_ville": "Birgisch",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Brig-Glis",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Eggerberg",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Mund",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Naters",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Ried-Brig",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Simplon",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Termen",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Zwischbergen",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Ardon",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Chamoson",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Conthey",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Nendaz",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Vétroz",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Bagnes",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Bourg-Saint-Pierre",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Liddes",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Orsières",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Sembrancher",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Vollèges",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Val de Bagnes",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Bellwald",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Binn",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Blitzingen",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Ernen",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Fiesch",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Fieschertal",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Lax",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Niederwald",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Obergesteln",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Oberwald",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Ulrichen",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Grafschaft",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Münster-Geschinen",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Reckingen-Gluringen",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Obergoms",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Goms",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Les Agettes",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Ayent",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Evolène",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Hérémence",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Mase",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Nax",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Saint-Martin (VS)",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Vernamiège",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Vex",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Mont-Noble",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Agarn",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Albinen",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Bratsch",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Ergisch",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Erschmatt",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Gampel",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Inden",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Leuk",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Leukerbad",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Oberems",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Salgesch",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Turtmann",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Unterems",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Varen",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Guttet-Feschel",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Gampel-Bratsch",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Turtmann-Unterems",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Bovernier",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Charrat",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Fully",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Isérables",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Leytron",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Martigny",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Martigny-Combe",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Riddes",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Saillon",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Saxon",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Trient",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Champéry",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Collombey-Muraz",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Monthey",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Port-Valais",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Saint-Gingolph",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Troistorrents",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Val-d'Illiez",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Vionnaz",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Vouvry",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Betten",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Bister",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Bitsch",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Filet",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Grengiols",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Martisberg",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Mörel",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Riederalp",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Ausserberg",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Blatten",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Bürchen",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Eischoll",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Ferden",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Hohtenn",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Kippel",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Niedergesteln",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Raron",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Steg",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Unterbäch",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Wiler (Lötschen)",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Mörel-Filet",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Steg-Hohtenn",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Bettmeralp",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Collonges",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Dorénaz",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Evionnaz",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Finhaut",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Massongex",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Mex (VS)",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Saint-Maurice",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Salvan",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Vernayaz",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Vérossaz",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Ayer",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Chalais",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Chandolin",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Chermignon",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Chippis",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Grimentz",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Grône",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Icogne",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Lens",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Miège",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Mollens (VS)",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Montana",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Randogne",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Saint-Jean",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Saint-Léonard",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Saint-Luc",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Sierre",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Venthône",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Veyras",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Vissoie",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Anniviers",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Crans-Montana",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Noble-Contrée",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Arbaz",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Grimisuat",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Salins",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Savièse",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Sion",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Veysonnaz",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Baltschieder",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Eisten",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Embd",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Grächen",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Lalden",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Randa",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Saas Almagell",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Saas Balen",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Saas Fee",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Saas Grund",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "St.Niklaus",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Stalden (VS)",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Staldenried",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Täsch",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Törbel",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Visp",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Visperterminen",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Zeneggen",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Zermatt",
+    "code": "VS"
+  },
+  {
+    "nom_ville": "Auvernier",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Bevaix",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Bôle",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Boudry",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Brot-Dessous",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Colombier (NE)",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Corcelles-Cormondrèche",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Cortaillod",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Fresens",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Gorgier",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Montalchez",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Peseux",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Rochefort",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Saint-Aubin-Sauges",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Vaumarcus",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Milvignes",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "La Grande Béroche",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "La Chaux-de-Fonds",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Les Planchettes",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "La Sagne",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Les Brenets",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "La Brévine",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Brot-Plamboz",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Le Cerneux-Péquignot",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "La Chaux-du-Milieu",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Le Locle",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Les Ponts-de-Martel",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Cornaux",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Cressier (NE)",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Enges",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Hauterive (NE)",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Le Landeron",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Lignières",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Marin-Epagnier",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Neuchâtel",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Saint-Blaise",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Thielle-Wavre",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "La Tène",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Boudevilliers",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Cernier",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Chézard-Saint-Martin",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Coffrane",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Dombresson",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Engollon",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Fenin-Vilars-Saules",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Fontainemelon",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Fontaines (NE)",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Les Geneveys-sur-Coffrane",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Les Hauts-Geneveys",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Montmollin",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Le Pâquier (NE)",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Savagnier",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Valangin",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Villiers",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Val-de-Ruz",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Les Bayards",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Boveresse",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Buttes",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "La Côte-aux-Fées",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Couvet",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Fleurier",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Môtiers (NE)",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Noiraigue",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Saint-Sulpice (NE)",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Les Verrières",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Val-de-Travers",
+    "code": "NE"
+  },
+  {
+    "nom_ville": "Aire-la-Ville",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Anières",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Avully",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Avusy",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Bardonnex",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Bellevue",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Bernex",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Carouge (GE)",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Cartigny",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Céligny",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Chancy",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Chêne-Bougeries",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Chêne-Bourg",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Choulex",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Collex-Bossy",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Collonge-Bellerive",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Cologny",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Confignon",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Corsier (GE)",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Dardagny",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Genève",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Genthod",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Le Grand-Saconnex",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Gy",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Hermance",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Jussy",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Laconnex",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Lancy",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Meinier",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Meyrin",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Onex",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Perly-Certoux",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Plan-les-Ouates",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Pregny-Chambésy",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Presinge",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Puplinge",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Russin",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Satigny",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Soral",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Thônex",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Troinex",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Vandoeuvres",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Vernier",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Versoix",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Veyrier",
+    "code": "GE"
+  },
+  {
+    "nom_ville": "Bassecourt",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Boécourt",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Bourrignon",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Châtillon (JU)",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Corban",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Courchapoix",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Courfaivre",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Courrendlin",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Courroux",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Courtételle",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Delémont",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Develier",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Ederswiler",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Glovelier",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Mervelier",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Mettembert",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Montsevelier",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Movelier",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Pleigne",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Rebeuvelier",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Rossemaison",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Saulcy",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Soulce",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Soyhières",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Undervelier",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Vermes",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Vicques",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Vellerat",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Haute-Sorne",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Val Terbi",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Le Bémont (JU)",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Les Bois",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Les Breuleux",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "La Chaux-des-Breuleux",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Les Enfers",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Epauvillers",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Epiquerez",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Les Genevez (JU)",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Goumois",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Lajoux (JU)",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Montfaucon",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Montfavergier",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Muriaux",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Le Noirmont",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Le Peuchapatte",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Les Pommerats",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Saignelégier",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Saint-Brais",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Soubey",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Alle",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Asuel",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Beurnevésin",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Boncourt",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Bonfol",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Bressaucourt",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Buix",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Bure",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Charmoille",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Chevenez",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Coeuve",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Cornol",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Courchavon",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Courgenay",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Courtedoux",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Courtemaîche",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Damphreux",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Damvant",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Fahy",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Fontenais",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Fregiécourt",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Grandfontaine",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Lugnez",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Miécourt",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Montenol",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Montignez",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Montmelon",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Ocourt",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Pleujouse",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Porrentruy",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Réclère",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Roche-d'Or",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Rocourt",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Saint-Ursanne",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Seleute",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Vendlincourt",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Basse-Allaine",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Clos du Doubs",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "Haute-Ajoie",
+    "code": "JU"
+  },
+  {
+    "nom_ville": "La Baroche",
+    "code": "JU"
+  }
+]

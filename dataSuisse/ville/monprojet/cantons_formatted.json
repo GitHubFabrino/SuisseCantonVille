@@ -1,0 +1,110 @@
+[
+  {
+    "nom_canton": "Zurich",
+    "code": "ZH"
+  },
+  {
+    "nom_canton": "Berne",
+    "code": "BE"
+  },
+  {
+    "nom_canton": "Lucerne",
+    "code": "LU"
+  },
+  {
+    "nom_canton": "Uri",
+    "code": "UR"
+  },
+  {
+    "nom_canton": "Schwytz",
+    "code": "SZ"
+  },
+  {
+    "nom_canton": "Obwald",
+    "code": "OW"
+  },
+  {
+    "nom_canton": "Nidwald",
+    "code": "NW"
+  },
+  {
+    "nom_canton": "Glaris",
+    "code": "GL"
+  },
+  {
+    "nom_canton": "Zoug",
+    "code": "ZG"
+  },
+  {
+    "nom_canton": "Fribourg",
+    "code": "FR"
+  },
+  {
+    "nom_canton": "Soleure",
+    "code": "SO"
+  },
+  {
+    "nom_canton": "Bâle-Ville",
+    "code": "BS"
+  },
+  {
+    "nom_canton": "Bâle-Campagne",
+    "code": "BL"
+  },
+  {
+    "nom_canton": "Schaffhouse",
+    "code": "SH"
+  },
+  {
+    "nom_canton": "Appenzell Rh.-E",
+    "code": "AR"
+  },
+  {
+    "nom_canton": "Appenzell Rh.-I",
+    "code": "AI"
+  },
+  {
+    "nom_canton": "Saint-Gall",
+    "code": "SG"
+  },
+  {
+    "nom_canton": "Grisons",
+    "code": "GR"
+  },
+  {
+    "nom_canton": "Argovie",
+    "code": "AG"
+  },
+  {
+    "nom_canton": "Thurgovie",
+    "code": "TG"
+  },
+  {
+    "nom_canton": "Ticino",
+    "code": "TI"
+  },
+  {
+    "nom_canton": "Vaud",
+    "code": "VD"
+  },
+  {
+    "nom_canton": "Valais",
+    "code": "VS"
+  },
+  {
+    "nom_canton": "Neuchâtel",
+    "code": "NE"
+  },
+  {
+    "nom_canton": "Genève",
+    "code": "GE"
+  },
+  {
+    "nom_canton": "Jura",
+    "code": "JU"
+  },
+  {
+    "nom_canton": "Confédération",
+    "code": "CH"
+  }
+]
