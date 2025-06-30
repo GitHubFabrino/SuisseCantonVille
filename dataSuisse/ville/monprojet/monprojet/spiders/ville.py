@@ -6,7 +6,7 @@ class VilleSpider(scrapy.Spider):
 
     def start_requests(self):
         # Chemin absolu vers le fichier HTML
-        file_path = r'C:\Users\MADA-Digital\dev\Scrapy\dataSuisse\ville\monprojet\monprojet\html.html'
+        file_path = r'C:\Users\MADA-Digital\dev\Scrapy\dataSuisse\ville\monprojet\monprojet\ville.html'
         
         # Lire le contenu du fichier HTML
         with open(file_path, 'r', encoding='utf-8') as file:
